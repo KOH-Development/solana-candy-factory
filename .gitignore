@@ -29,3 +29,8 @@ nfts-sources/*.png
 .cache
 
 .next
+/.vs/0euvreNFTsAIGeneratedArt/config/applicationhost.config
+/.vs/0euvreNFTsAIGeneratedArt/v16/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json

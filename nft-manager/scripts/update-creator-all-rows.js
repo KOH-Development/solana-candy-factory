@@ -28,7 +28,7 @@ async function getSellerFee() {
 }
 
 async function updateCreatorAllRows() {
-  const strapi = new Strapi('http://localhost:1337');
+  const strapi = new Strapi('http://localhost:9999');
   await strapi.login('admin', 'Admin123')
 
   const creatorAddress = await getCreatorAddress()
